@@ -38,20 +38,6 @@ bSTIterator.next();    // return 20
 bSTIterator.hasNext(); // return False
 ```
 
-Example 2:
-
-```
-Input: num = 5
-Output: [0,1,1,2,1,2]
-Explanation:
-0 --> 0
-1 --> 1
-2 --> 10
-3 --> 11
-4 --> 100
-5 --> 101
-```
-
 Constraints:
 
 - The number of nodes in the tree is in the range `[1, 10^5]`.
